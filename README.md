@@ -21,6 +21,8 @@ Coming Soon ...
 
 
 
-## References and Other Implementations:
+## References:
 * https://github.com/CODEJIN/NaturalSpeech2
 * https://github.com/lucidrains/naturalspeech2-pytorch
+* https://github.com/espnet/espnet
+* https://github.com/rishikksh20/FastSpeech2
