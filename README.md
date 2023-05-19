@@ -1,6 +1,5 @@
-# NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers
+# NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers [WIP]
 
-Coming Soon ...
 
 
 
